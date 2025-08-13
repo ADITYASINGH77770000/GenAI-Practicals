@@ -276,8 +276,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Stay Connected
 - 🌟 **Star this repo** if it helped you!
-- 🐦 **Follow us** on [Twitter](https://twitter.com/YourHandle)
-- 📧 **Email**: contact@yourproject.com
+- 🐦 **Follow me** on   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-7210b2267/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thakuraditya00007/)  
+- 📧 **Email**: adssingh9090@gmail.com
 
 ---
 
